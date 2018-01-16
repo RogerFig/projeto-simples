@@ -26,7 +26,7 @@ SECRET_KEY = 'z9h4jgbz8!4hv^w!9nz4hc!p0d8zstuc2mcrj5edacma2&h9+9'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['tarefas-aula.herokuapp.com']
 
 
 # Application definition
